@@ -1,0 +1,28 @@
+{
+  "name": "spc-loader",
+  "version": "1.0.0",
+  "description": "简单app内嵌页框架，组件化思想形成单页内连页面的laoder文件",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pickTan/spc-loader.git"
+  },
+  "author": "fynnpeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pickTan/spc-loader/issues"
+  },
+  "homepage": "https://github.com/pickTan/spc-loader#readme",
+  "devDependencies": {
+    "less-loader": "^4.0.3",
+    "path": "^0.12.7",
+    "webpack": "^2.2.0"
+  }
+}
